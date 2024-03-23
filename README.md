@@ -1,9 +1,21 @@
-### Well hello there!
+# ML Engineering on Google Cloud Platform
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+This repository maintains hands-on labs and code samples that demonstrate best practices and patterns for implementing and operationalizing production grade machine learning workflows on Google Cloud Platform. 
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+## Navigating this repository
+This repository is organized into two sections:
+- [Mini workshops](./workshops/)
+- [Code samples](./examples/)
+
+
+### Mini workshops
+This section contains hands-on labs for instructor led ML Engineering mini workshops. 
+
+### Code Samples
+This section compiles  samples demonstrating design and code patterns for a variety of ML Engineering topics. 
+
+
+
